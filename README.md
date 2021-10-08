@@ -1,4 +1,4 @@
-# K3 Firmware     [dowload](https://github.com/393435992/K3-OpenWrt/releases)
+# [K3 Firmware](https://github.com/393435992/K3-OpenWrt/releases)
 
 ## Using Actions-OpenWrt By  [**P3TERX**](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
