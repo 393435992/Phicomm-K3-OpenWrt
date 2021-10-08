@@ -12,3 +12,13 @@
 
 # Modify default IP
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
+
+# 更改默认主题
+rm -rf package/lean/luci-theme-argon
+git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/lean/luci-theme-argon
+
+# 更改屏幕设置
+rm -rf package/lean/k3screenctrl
+git clone https://github.com/lwz322/luci-app-k3screenctrl.git package/k3/luci-app-k3screenctrl
+git clone https://github.com/lwz322/k3screenctrl.git package/k3/k3screenctrl
+git clone https://github.com/lwz322/k3screenctrl_build.git package/k3/k3screenctrl_build
