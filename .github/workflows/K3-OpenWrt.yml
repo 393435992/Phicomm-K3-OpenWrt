@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt
+name: Build K3 OpenWrt
 
 on:
   workflow_dispatch:
