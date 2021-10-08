@@ -7,7 +7,7 @@
 
 - [Lean](https://github.com/coolsnowwolf/lede)
 - [jerrykuku](https://github.com/jerrykuku/luci-theme-argon)
-- [fw876](https://github.com/fw876/helloword)
+- [fw876](https://github.com/fw876/helloworld)
 
 
 ## 插件
