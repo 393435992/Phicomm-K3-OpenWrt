@@ -5,7 +5,7 @@
 
 ## 源码
 
-- [Lean's OpenWrt](https://github.com/coolsnowwolf/lede)
+- [Lean](https://github.com/coolsnowwolf/lede)
 - [lwz322](https://github.com/lwz322)
 - [jerrykuku](https://github.com/jerrykuku/luci-theme-argon)
 - [fw876](https://github.com/fw876/helloword)
