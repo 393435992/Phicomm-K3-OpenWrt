@@ -1,6 +1,6 @@
 ### K3 Firmware
 
-# Use Actions-OpenWrt By  [**P3TERX**](https://p3terx.com)
+# Use Actions-OpenWrt By  [**P3TERX**](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 
 ## 源码
