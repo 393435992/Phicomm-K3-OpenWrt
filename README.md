@@ -25,3 +25,7 @@
    -   未添加 USB
 
    -    没有多播
+
+## 下载
+
+   -  [点我](https://github.com/393435992/Phicomm-K3-OpenWrt/releases)选择最新日期，下载后缀为“.trx”文件
