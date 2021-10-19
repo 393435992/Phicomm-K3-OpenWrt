@@ -28,4 +28,4 @@
 
 ## 下载
 
-   -  [ 点我 ](https://github.com/393435992/Phicomm-K3-OpenWrt/releases)找到最新日期，下载后缀为“.trx”文件
+   -  [ 点我 ](https://github.com/393435992/Phicomm-K3-OpenWrt/releases)找最新日期，点击后缀为“.trx”文件即可
