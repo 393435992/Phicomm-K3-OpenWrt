@@ -22,6 +22,6 @@ git clone -b 18.06 https://github.com/jerrykuku/luci-theme-argon.git package/lea
 
 # Add Screenctrl
 rm -rf package/lean/k3screenctrl
-git clone https://github.com/lwz322/luci-app-k3screenctrl.git package/k3/luci-app-k3screenctrl
-git clone https://github.com/lwz322/k3screenctrl.git package/k3/k3screenctrl
-git clone https://github.com/lwz322/k3screenctrl_build.git package/k3/k3screenctrl_build
+rm -rf package/lean/luci-app-k3screenctrl
+git clone https://github.com/lwz322/luci-app-k3screenctrl.git package/lean/luci-app-k3screenctrl
+git clone https://github.com/lwz322/k3screenctrl_build.git package/lean/k3screenctrl
