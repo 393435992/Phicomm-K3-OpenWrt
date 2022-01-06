@@ -11,10 +11,10 @@
 #
 
 # Modify default IP ＆ Delete Password
-#sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
+sed -i 's/192.168.1.1/192.168.2.1/g' package/base-files/files/bin/config_generate
 #sed -i '/CYXluq4wUazHjmCDBCqXF/d' $ZZZ
 
-#sed -i "s/hostname='OpenWrt'/hostname='Phicomm-K3'/g" package/base-files/files/bin/config_generate
+sed -i "s/hostname='OpenWrt'/hostname='Phicomm-K3'/g" package/base-files/files/bin/config_generate
 
 # Change Default Theme
 rm -rf package/lean/luci-theme-argon
