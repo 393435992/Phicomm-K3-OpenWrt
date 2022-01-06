@@ -25,3 +25,4 @@ rm -rf package/lean/k3screenctrl
 rm -rf package/lean/luci-app-k3screenctrl
 git clone https://github.com/lwz322/luci-app-k3screenctrl.git package/lean/luci-app-k3screenctrl
 git clone https://github.com/lwz322/k3screenctrl_build.git package/lean/k3screenctrl
+wget -nv https://github.com/393435992/k3screen-fix-patch/raw/main/k3screen/000-k3screen.patch  -P package/lean/k3screenctrl/patches
