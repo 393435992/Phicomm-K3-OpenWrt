@@ -9,8 +9,6 @@
 ## 源码
 
 - [Lean](https://github.com/coolsnowwolf/lede)
-- [jerrykuku](https://github.com/jerrykuku/luci-theme-argon)
-- [fw876](https://github.com/fw876/helloworld)
 
 
 ## 插件
@@ -21,7 +19,7 @@
    
    -  ipv6
 
-  
+   - [argon theme](https://github.com/jerrykuku/luci-theme-argon)
 
 ## 补充
   
